@@ -9,7 +9,7 @@
 
 ## 🎓 Education & Certifications
 
-🏫 **Master of Science in Data Science** — Ball State University *(In Progress)*  
+🏫 **Master of Science in Data Science** — Ball State University *(In Progress)*  (https://coursera.org/share/6eacd82dbb9596f815e8f969f9d0c5f1) - Ballstate
 🏆 [IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/5CFTWUBT1ZPY) — Coursera / IBM *(Completed)*  
 🎓 [IBM Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/BXT65HQWG1Y6) — Coursera / IBM *(Completed)*  
 🐍 [Python for Everybody](https://coursera.org/share/011a9af3b2b74e249a26e6617fd173cd) — University of Michigan *(Completed)*  
