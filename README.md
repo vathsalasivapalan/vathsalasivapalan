@@ -9,7 +9,7 @@
 
 ## 🎓 Education & Certifications
 
-🏫 **Master of Science in Data Science** — Ball State University *(In Progress)*  (https://coursera.org/share/6eacd82dbb9596f815e8f969f9d0c5f1) - Ballstate
+🏫 [Master of Science in Data Science](https://coursera.org/share/6eacd82dbb9596f815e8f969f9d0c5f1) — Ball State University *(In Progress)*  
 🏆 [IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/5CFTWUBT1ZPY) — Coursera / IBM *(Completed)*  
 🎓 [IBM Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/BXT65HQWG1Y6) — Coursera / IBM *(Completed)*  
 🐍 [Python for Everybody](https://coursera.org/share/011a9af3b2b74e249a26e6617fd173cd) — University of Michigan *(Completed)*  
@@ -46,8 +46,6 @@
 ---
 
 ## 📫 Connect with me
-[[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/vathsala-sivapalan)](https://www.linkedin.com/in/vathsala-s-9b74131b6/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vathsala-s-9b74131b6/)
 
 ⭐ Always learning, building, and growing in Data Science & Machine Learning
-
