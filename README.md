@@ -47,3 +47,7 @@
 
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/vathsala-sivapalan)
+
+
+⭐ Always learning, building, and growing in Data Science & Machine Learning
+
